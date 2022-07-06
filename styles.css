@@ -1,1 +1,17 @@
-!
+.body{
+    background-color: #F5F5F5;
+}
+.main_div{
+    width: 80vw;
+    /* border: 1px solid black; */
+    margin: 5rem auto !important;
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.75);
+
+}
+.profile_pic{
+    background-image: url(demo.jpg);
+    border-radius: .75rem;
+    width: 9rem;
+    height: 9rem;
+    background-size: cover;
+}
